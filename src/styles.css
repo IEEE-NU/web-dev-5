@@ -1,0 +1,23 @@
+h1 {
+  color: #AB3A2C;
+  font-family: Helvetica, sans-serif;
+  font-size: 250%;
+}
+h2, h3 {
+  color: #225095;
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+}
+body {
+  margin: 2em;
+}
+body, input[type="text"], button {
+  color: #1A1414;
+  font-family: Helvetica;
+}
+
+* {
+  font-family: Helvetica, sans-serif;
+  box-sizing: border-box;
+  /* background-color: #F1F2ED; */
+}
