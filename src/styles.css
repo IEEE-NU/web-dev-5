@@ -1,5 +1,6 @@
 h1 {
-  color: #AB3A2C;
+  /* color: #AB3A2C; */
+  color: #00AD50;
   font-family: Helvetica, sans-serif;
   font-size: 250%;
 }
@@ -9,7 +10,7 @@ h2, h3 {
   font-weight: lighter;
 }
 body {
-  margin: 2em;
+  /* margin: 2em; */
 }
 body, input[type="text"], button {
   color: #1A1414;
@@ -19,5 +20,4 @@ body, input[type="text"], button {
 * {
   font-family: Helvetica, sans-serif;
   box-sizing: border-box;
-  /* background-color: #F1F2ED; */
 }

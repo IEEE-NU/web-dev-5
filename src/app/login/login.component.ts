@@ -4,6 +4,7 @@ import * as request from 'request'; // "Request" library
 import * as cors from 'cors';
 import * as querystring from 'querystring';
 import * as cookieParser from 'cookie-parser';
+import { Routes, RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-login',
@@ -12,7 +13,7 @@ import * as cookieParser from 'cookie-parser';
 })
 export class LoginComponent implements OnInit {
 
-  title = 'web-dev-5 name';
+  title = 'Spotted.';
 
   constructor() { }
 

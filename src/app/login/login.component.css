@@ -1,4 +1,5 @@
 h1 {
+  font-family: 'Lobster', cursive;
   font-size: 400%;
   text-align: center;
   margin-top: 15%;
@@ -6,5 +7,30 @@ h1 {
 body {
   font-size: 150%;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
   color: #1A1414;
+}
+button {
+  margin: 0 auto;
+  margin-top: 2em;
+  width: 7em;
+  height: 3em;
+  border: none;
+  background-color: #c9c9c9;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+button:hover {
+  background-color: #00AD50;
+  color: white;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+#container {
+  background-color: #f9f9f9;
+  width:auto;
+  height: auto;
 }
